@@ -3,3 +3,6 @@
 
 右键shell扩展
 https://gitee.com/mapupcal/DesktopShellExtension
+
+duilib troy版本
+https://github.com/qdtroy/
